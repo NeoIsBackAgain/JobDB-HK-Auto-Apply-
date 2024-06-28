@@ -22,7 +22,7 @@ This repository contains a Bash script for scraping job listings from JobsDB, sp
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/job_scraper.git
+    git clone https://github.com/NeoIsBackAgain/JobDB-HK-Auto-Apply-.git
     cd job_scraper
     ```
 
