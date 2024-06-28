@@ -13,10 +13,14 @@ This repository contains a Bash script for scraping job listings from JobsDB, sp
 
 ## Prerequisites
 
+https://github.com/NeoIsBackAgain/JobDB-HK-Auto-Apply-/assets/111569568/11ce2a88-57b2-4c9e-89a5-a3fb04eac2a0
+
+
+
 - Unix-based operating system (Linux, macOS)
 - `curl` installed
 - `html2text` installed (can be installed via `sudo apt-get install html2text` on Debian-based systems)
-
+Uploading 螢幕錄製 2024-06-28 14.40.43.mp4…
 ## Usage
 
 1. Clone the repository:
