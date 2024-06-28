@@ -23,19 +23,19 @@ This repository contains a Bash script for scraping job listings from JobsDB, sp
 
     ```bash
     git clone https://github.com/NeoIsBackAgain/JobDB-HK-Auto-Apply-.git
-    cd job_scraper
+    cd find_jobs
     ```
 
 2. Make the script executable:
 
     ```bash
-    chmod +x scrape_jobs.sh
+    chmod +x jobfind.sh
     ```
 
 3. Run the script with the desired keyword and number of pages to scrape:
 
     ```bash
-    ./scrape_jobs.sh keyword total_pages
+    ./jobfind.sh keyword total_pages
     ```
 
     - `keyword`: The job search keyword (e.g., `software-developer`).
